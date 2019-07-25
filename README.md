@@ -26,7 +26,7 @@ Although the GDK is not fully ready in terms of performance, stability and docum
 See the [full feature list](https://docs.improbable.io/unreal/latest/features) on the documentation website.
 
 ## Contributions
-We are not currently accepting public contributions - see our [contributions](https://docs.improbable.io/unreal/latest/contributing) policy. However, we are accepting issues and we do want your feedback.
+Please see our [contributions](CONTRIBUTING.md) policy.
 
 ## Run into problems?
 * [Troubleshooting](https://docs.improbable.io/unreal/latest/content/troubleshooting)
